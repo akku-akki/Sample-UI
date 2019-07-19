@@ -1,0 +1,6 @@
+shared_preferences: ^0.5.2
+  carousel_pro: ^0.0.13
+  flutter_counter: ^1.0.3
+  sqflite: ^1.1.5
+  path_provider: ^0.5.0+1
+  fluttertoast: ^3.0.4
